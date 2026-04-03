@@ -1,0 +1,4 @@
+Daftar library: 
+streamlit
+requests
+g4f
