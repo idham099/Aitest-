@@ -22,7 +22,7 @@ Ikuti langkah-langkah berikut untuk menjalankan project di lingkungan lokal Anda
    git clone [https://github.com/idham099/Aitest.git](https://github.com/idham099/Aitest.git)
    cd Aitest
    ```
-   
+
 2. **Install Dependencies:**
   Pastikan Anda sudah menginstal Python, lalu jalankan:
 
@@ -38,12 +38,13 @@ Jalankan perintah Streamlit untuk membuka dashboard di browser:
     ```
 
 4. **Input Configuration:**
-    a. Masukkan Gemini API Key Anda pada sidebar.
-    b. Masukkan User Story pada text area yang tersedia.
-    c. Klik Generate dan AI akan menyusun Test Suite untuk Anda.
+- Masukkan Gemini API Key Anda pada sidebar.
+- Masukkan User Story pada text area yang tersedia.
+- Klik Generate dan AI akan menyusun Test Suite untuk Anda.
 
 
 ## 📝 Disclaimer
 Proyek ini dikembangkan oleh **Ainul Idham** sebagai bagian dari portofolio riset profesional dalam mengintegrasikan Large Language Models (LLM) ke dalam Software Testing Life Cycle (STLC).
+
 ---
 © 2026 Ainul Idham | Built for Exellence.
